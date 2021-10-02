@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera_Following : MonoBehaviour
+public class cameraFollowing : MonoBehaviour
 {
     public GameObject player;
     private Vector3 offset;
