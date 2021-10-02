@@ -10,10 +10,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - spaceship
+  - Spaceship
   - Water
   - UI
-  - Avatar
+  - 
   - 
   - 
   - 
@@ -40,12 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 1718482675
+    locked: 0
+  - name: spaceship
+    uniqueID: 3597642743
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: avatar
     uniqueID: 3309671451
-    locked: 0
-  - name: spaceship
-    uniqueID: 3597642743
     locked: 0
