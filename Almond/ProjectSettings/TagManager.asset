@@ -6,6 +6,8 @@ TagManager:
   tags:
   - spaceship
   - avatar
+  - Hole
+  - Kill
   layers:
   - Default
   - TransparentFX
